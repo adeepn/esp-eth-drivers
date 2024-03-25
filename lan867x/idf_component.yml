@@ -2,6 +2,6 @@ version: "0.9.0"
 targets:
   - esp32
 description: LAN867x Ethernet PHY Driver
-url: https://github.com/espressif/esp-eth-drivers/tree/master/lan867x
+url: https://github.com/adeepn/esp-eth-drivers/tree/lan867x_5.x/lan867x
 dependencies:
   idf: ">=5.0"
